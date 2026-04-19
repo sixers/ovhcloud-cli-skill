@@ -15,8 +15,8 @@ Review IAM objects and permissions without mutating access state.
 
 ## Related Skills
 
-- [ovhcloud-shared](../subskills/shared/SKILL.md)
-- [ovhcloud-iam](../subskills/iam/SKILL.md)
+- [ovhcloud-shared](../../subskills/shared/SKILL.md)
+- [ovhcloud-iam](../../subskills/iam/SKILL.md)
 
 ## Workflow
 

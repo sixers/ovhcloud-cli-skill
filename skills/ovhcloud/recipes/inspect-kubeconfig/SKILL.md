@@ -15,8 +15,8 @@ Generate kubeconfig locally so cluster inspection can continue outside the CLI.
 
 ## Related Skills
 
-- [ovhcloud-shared](../subskills/shared/SKILL.md)
-- [ovhcloud-cloud-kube](../subskills/cloud-kube/SKILL.md)
+- [ovhcloud-shared](../../subskills/shared/SKILL.md)
+- [ovhcloud-cloud-kube](../../subskills/cloud-kube/SKILL.md)
 
 ## Workflow
 

@@ -608,7 +608,7 @@ metadata:
 
 def build_recipe_markdown(bundle_dir: Path, recipe: RecipeSpec) -> str:
     related_lines = "\n".join(
-        f"- [ovhcloud-{item}](../subskills/{item}/SKILL.md)" for item in recipe.related_skills
+        f"- [ovhcloud-{item}](../../subskills/{item}/SKILL.md)" for item in recipe.related_skills
     )
     step_lines = "\n".join(f"{index}. {step}" for index, step in enumerate(recipe.steps, start=1))
     example_lines = "\n".join(f"- `{cmd}`" for cmd in recipe.command_examples)

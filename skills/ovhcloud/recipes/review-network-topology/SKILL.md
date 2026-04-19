@@ -15,13 +15,13 @@ Review network topology across Public Cloud IPs, load balancers, and vRack servi
 
 ## Related Skills
 
-- [ovhcloud-shared](../subskills/shared/SKILL.md)
-- [ovhcloud-ip](../subskills/ip/SKILL.md)
-- [ovhcloud-vrack](../subskills/vrack/SKILL.md)
-- [ovhcloud-vrackservices](../subskills/vrackservices/SKILL.md)
-- [ovhcloud-cloud-floating-ip](../subskills/cloud-floating-ip/SKILL.md)
-- [ovhcloud-cloud-ip-failover](../subskills/cloud-ip-failover/SKILL.md)
-- [ovhcloud-cloud-loadbalancer](../subskills/cloud-loadbalancer/SKILL.md)
+- [ovhcloud-shared](../../subskills/shared/SKILL.md)
+- [ovhcloud-ip](../../subskills/ip/SKILL.md)
+- [ovhcloud-vrack](../../subskills/vrack/SKILL.md)
+- [ovhcloud-vrackservices](../../subskills/vrackservices/SKILL.md)
+- [ovhcloud-cloud-floating-ip](../../subskills/cloud-floating-ip/SKILL.md)
+- [ovhcloud-cloud-ip-failover](../../subskills/cloud-ip-failover/SKILL.md)
+- [ovhcloud-cloud-loadbalancer](../../subskills/cloud-loadbalancer/SKILL.md)
 
 ## Workflow
 

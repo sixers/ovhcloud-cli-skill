@@ -15,12 +15,12 @@ Inventory an account, projects, and core services with read-only `ovhcloud` comm
 
 ## Related Skills
 
-- [ovhcloud-shared](../subskills/shared/SKILL.md)
-- [ovhcloud-account](../subskills/account/SKILL.md)
-- [ovhcloud-cloud-project](../subskills/cloud-project/SKILL.md)
-- [ovhcloud-vps](../subskills/vps/SKILL.md)
-- [ovhcloud-baremetal](../subskills/baremetal/SKILL.md)
-- [ovhcloud-webhosting](../subskills/webhosting/SKILL.md)
+- [ovhcloud-shared](../../subskills/shared/SKILL.md)
+- [ovhcloud-account](../../subskills/account/SKILL.md)
+- [ovhcloud-cloud-project](../../subskills/cloud-project/SKILL.md)
+- [ovhcloud-vps](../../subskills/vps/SKILL.md)
+- [ovhcloud-baremetal](../../subskills/baremetal/SKILL.md)
+- [ovhcloud-webhosting](../../subskills/webhosting/SKILL.md)
 
 ## Workflow
 

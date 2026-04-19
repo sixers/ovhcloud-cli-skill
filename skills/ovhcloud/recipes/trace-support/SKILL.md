@@ -15,8 +15,8 @@ List tickets and inspect messages without replying to support.
 
 ## Related Skills
 
-- [ovhcloud-shared](../subskills/shared/SKILL.md)
-- [ovhcloud-support-tickets](../subskills/support-tickets/SKILL.md)
+- [ovhcloud-shared](../../subskills/shared/SKILL.md)
+- [ovhcloud-support-tickets](../../subskills/support-tickets/SKILL.md)
 
 ## Workflow
 

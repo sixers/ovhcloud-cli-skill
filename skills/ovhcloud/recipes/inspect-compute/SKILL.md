@@ -15,10 +15,10 @@ Inspect compute fleets across VPS, bare metal, and Public Cloud instances.
 
 ## Related Skills
 
-- [ovhcloud-shared](../subskills/shared/SKILL.md)
-- [ovhcloud-vps](../subskills/vps/SKILL.md)
-- [ovhcloud-baremetal](../subskills/baremetal/SKILL.md)
-- [ovhcloud-cloud-instance](../subskills/cloud-instance/SKILL.md)
+- [ovhcloud-shared](../../subskills/shared/SKILL.md)
+- [ovhcloud-vps](../../subskills/vps/SKILL.md)
+- [ovhcloud-baremetal](../../subskills/baremetal/SKILL.md)
+- [ovhcloud-cloud-instance](../../subskills/cloud-instance/SKILL.md)
 
 ## Workflow
 

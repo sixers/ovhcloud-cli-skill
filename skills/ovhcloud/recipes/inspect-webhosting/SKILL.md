@@ -15,9 +15,9 @@ Inspect webhosting state, databases, runtimes, incidents, and tasks safely.
 
 ## Related Skills
 
-- [ovhcloud-shared](../subskills/shared/SKILL.md)
-- [ovhcloud-webhosting](../subskills/webhosting/SKILL.md)
-- [ovhcloud-hosting-private-database](../subskills/hosting-private-database/SKILL.md)
+- [ovhcloud-shared](../../subskills/shared/SKILL.md)
+- [ovhcloud-webhosting](../../subskills/webhosting/SKILL.md)
+- [ovhcloud-hosting-private-database](../../subskills/hosting-private-database/SKILL.md)
 
 ## Workflow
 

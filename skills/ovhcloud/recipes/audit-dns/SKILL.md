@@ -15,9 +15,9 @@ Review domains, DNS zones, and records without refreshing or editing them.
 
 ## Related Skills
 
-- [ovhcloud-shared](../subskills/shared/SKILL.md)
-- [ovhcloud-domain-name](../subskills/domain-name/SKILL.md)
-- [ovhcloud-domain-zone](../subskills/domain-zone/SKILL.md)
+- [ovhcloud-shared](../../subskills/shared/SKILL.md)
+- [ovhcloud-domain-name](../../subskills/domain-name/SKILL.md)
+- [ovhcloud-domain-zone](../../subskills/domain-zone/SKILL.md)
 
 ## Workflow
 

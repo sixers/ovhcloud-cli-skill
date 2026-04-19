@@ -15,10 +15,10 @@ Inspect object, block, and file storage resources with read-only calls.
 
 ## Related Skills
 
-- [ovhcloud-shared](../subskills/shared/SKILL.md)
-- [ovhcloud-cloud-storage](../subskills/cloud-storage/SKILL.md)
-- [ovhcloud-storage-netapp](../subskills/storage-netapp/SKILL.md)
-- [ovhcloud-dedicated-ceph](../subskills/dedicated-ceph/SKILL.md)
+- [ovhcloud-shared](../../subskills/shared/SKILL.md)
+- [ovhcloud-cloud-storage](../../subskills/cloud-storage/SKILL.md)
+- [ovhcloud-storage-netapp](../../subskills/storage-netapp/SKILL.md)
+- [ovhcloud-dedicated-ceph](../../subskills/dedicated-ceph/SKILL.md)
 
 ## Workflow
 
