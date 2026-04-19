@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Domain Name"
+  short_description: "OVHcloud CLI domain-name: Retrieve information and manage you..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-domain-name to oVHcloud CLI domain-name: Retrieve information and manage your domain names"

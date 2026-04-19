@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Shared"
+  short_description: "OVHcloud CLI shared patterns: safety defaults, auth precedenc..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-shared to oVHcloud CLI shared patterns: safety defaults, auth precedence, profiles, global flags, filtering, and help traversal."

@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud LDP"
+  short_description: "OVHcloud CLI ldp: Retrieve information and manage your LDP (L..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-ldp to oVHcloud CLI ldp: Retrieve information and manage your LDP (Logs Data Platform) services"

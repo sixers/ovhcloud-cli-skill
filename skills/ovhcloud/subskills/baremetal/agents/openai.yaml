@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Baremetal"
+  short_description: "OVHcloud CLI baremetal: Retrieve information and manage your..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-baremetal to oVHcloud CLI baremetal: Retrieve information and manage your Bare Metal services"

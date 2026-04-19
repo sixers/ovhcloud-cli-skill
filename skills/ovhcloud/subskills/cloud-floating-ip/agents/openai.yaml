@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud Floating IP"
+  short_description: "OVHcloud Public Cloud `floating-ip`: Manage floating IPs in t..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-floating-ip to oVHcloud Public Cloud `floating-ip`: Manage floating IPs in the given cloud project"

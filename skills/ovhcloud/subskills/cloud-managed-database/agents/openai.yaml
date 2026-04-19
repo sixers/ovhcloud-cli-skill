@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud Managed Database"
+  short_description: "OVHcloud Public Cloud `managed-database`: Manage managed data..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-managed-database to oVHcloud Public Cloud `managed-database`: Manage managed database services in the given cloud project"

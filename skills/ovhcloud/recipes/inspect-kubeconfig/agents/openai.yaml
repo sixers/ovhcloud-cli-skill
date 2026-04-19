@@ -1,0 +1,5 @@
+interface:
+  display_name: "Recipe Inspect Kubeconfig"
+  short_description: "Generate kubeconfig locally so cluster inspection can continu..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $recipe-inspect-kubeconfig to generate kubeconfig locally so cluster inspection can continue outside the CLI."

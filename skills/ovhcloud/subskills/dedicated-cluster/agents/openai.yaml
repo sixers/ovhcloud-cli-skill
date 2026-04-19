@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Dedicated Cluster"
+  short_description: "OVHcloud CLI dedicated-cluster: Retrieve information and mana..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-dedicated-cluster to oVHcloud CLI dedicated-cluster: Retrieve information and manage your DedicatedCluster services"

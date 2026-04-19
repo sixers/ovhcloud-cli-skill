@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud Kube"
+  short_description: "OVHcloud Public Cloud `kube`: Manage Kubernetes clusters in t..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-kube to oVHcloud Public Cloud `kube`: Manage Kubernetes clusters in the given cloud project"

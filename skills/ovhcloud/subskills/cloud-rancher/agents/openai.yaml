@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud Rancher"
+  short_description: "OVHcloud Public Cloud `rancher`: Manage Rancher services in t..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-rancher to oVHcloud Public Cloud `rancher`: Manage Rancher services in the given cloud project"

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Recipe Trace Support"
+  short_description: "List tickets and inspect messages without replying to support."
+  brand_color: "#0050D7"
+  default_prompt: "Use $recipe-trace-support to list tickets and inspect messages without replying to support."

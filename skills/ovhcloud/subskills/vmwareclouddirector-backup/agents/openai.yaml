@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Vmwareclouddirector Backup"
+  short_description: "OVHcloud CLI vmwareclouddirector-backup: Retrieve information..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-vmwareclouddirector-backup to oVHcloud CLI vmwareclouddirector-backup: Retrieve information and manage your VMware Cloud Director Backup services"

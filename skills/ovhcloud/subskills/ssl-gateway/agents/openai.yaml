@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Ssl Gateway"
+  short_description: "OVHcloud CLI ssl-gateway: Retrieve information and manage you..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-ssl-gateway to oVHcloud CLI ssl-gateway: Retrieve information and manage your SSL Gateway services"

@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Alldom"
+  short_description: "OVHcloud CLI alldom: Retrieve information and manage your All..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-alldom to oVHcloud CLI alldom: Retrieve information and manage your AllDom services"

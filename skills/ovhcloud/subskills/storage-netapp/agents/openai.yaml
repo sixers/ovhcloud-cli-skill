@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Storage Netapp"
+  short_description: "OVHcloud CLI storage-netapp: Retrieve information and manage..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-storage-netapp to oVHcloud CLI storage-netapp: Retrieve information and manage your Storage NetApp services"

@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud User"
+  short_description: "OVHcloud Public Cloud `user`: Manage users in the given cloud..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-user to oVHcloud Public Cloud `user`: Manage users in the given cloud project"

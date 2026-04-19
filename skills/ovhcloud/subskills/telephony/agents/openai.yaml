@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Telephony"
+  short_description: "OVHcloud CLI telephony: Retrieve information and manage your..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-telephony to oVHcloud CLI telephony: Retrieve information and manage your Telephony services"

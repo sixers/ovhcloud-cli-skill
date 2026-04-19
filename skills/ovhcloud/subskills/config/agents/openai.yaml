@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Config"
+  short_description: "OVHcloud CLI config: inspect config values, endpoints, and pr..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-config to oVHcloud CLI config: inspect config values, endpoints, and profile-aware defaults safely."

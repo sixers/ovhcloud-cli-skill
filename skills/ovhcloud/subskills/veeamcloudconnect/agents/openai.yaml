@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Veeamcloudconnect"
+  short_description: "OVHcloud CLI veeamcloudconnect: Retrieve information and mana..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-veeamcloudconnect to oVHcloud CLI veeamcloudconnect: Retrieve information and manage your VeeamCloudConnect services"

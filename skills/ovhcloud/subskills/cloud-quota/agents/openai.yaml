@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud Quota"
+  short_description: "OVHcloud Public Cloud `quota`: Check quotas in the given clou..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-quota to oVHcloud Public Cloud `quota`: Check quotas in the given cloud project"

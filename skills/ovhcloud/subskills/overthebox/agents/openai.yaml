@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Overthebox"
+  short_description: "OVHcloud CLI overthebox: Retrieve information and manage your..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-overthebox to oVHcloud CLI overthebox: Retrieve information and manage your OverTheBox services"

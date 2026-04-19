@@ -1,0 +1,5 @@
+interface:
+  display_name: "Recipe Review Network Topology"
+  short_description: "Review network topology across Public Cloud IPs, load balance..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $recipe-review-network-topology to review network topology across Public Cloud IPs, load balancers, and vRack services."

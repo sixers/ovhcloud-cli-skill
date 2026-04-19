@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud VPS"
+  short_description: "OVHcloud CLI vps: Retrieve information and manage your VPS se..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-vps to oVHcloud CLI vps: Retrieve information and manage your VPS services"

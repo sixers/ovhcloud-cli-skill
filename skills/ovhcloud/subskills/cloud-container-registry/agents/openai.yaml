@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud Container Registry"
+  short_description: "OVHcloud Public Cloud `container-registry`: Manage container..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-container-registry to oVHcloud Public Cloud `container-registry`: Manage container registries in the given cloud project"

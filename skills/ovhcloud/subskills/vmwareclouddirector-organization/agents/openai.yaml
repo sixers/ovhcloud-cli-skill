@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Vmwareclouddirector Organization"
+  short_description: "OVHcloud CLI vmwareclouddirector-organization: Retrieve infor..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-vmwareclouddirector-organization to oVHcloud CLI vmwareclouddirector-organization: Retrieve information and manage your VMware Cloud Director Organizations"

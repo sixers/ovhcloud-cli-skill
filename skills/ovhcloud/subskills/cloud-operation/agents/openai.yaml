@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud Operation"
+  short_description: "OVHcloud Public Cloud `operation`: List and get operations in..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-operation to oVHcloud Public Cloud `operation`: List and get operations in the given cloud project"

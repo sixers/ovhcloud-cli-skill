@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud Instance"
+  short_description: "OVHcloud Public Cloud `instance`: Manage instances in the giv..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-instance to oVHcloud Public Cloud `instance`: Manage instances in the given cloud project"

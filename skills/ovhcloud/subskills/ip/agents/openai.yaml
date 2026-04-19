@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud IP"
+  short_description: "OVHcloud CLI ip: Retrieve information and manage your IP serv..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-ip to oVHcloud CLI ip: Retrieve information and manage your IP services"

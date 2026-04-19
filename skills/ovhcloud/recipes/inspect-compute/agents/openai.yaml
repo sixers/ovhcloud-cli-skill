@@ -1,0 +1,5 @@
+interface:
+  display_name: "Recipe Inspect Compute"
+  short_description: "Inspect compute fleets across VPS, bare metal, and Public Clo..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $recipe-inspect-compute to inspect compute fleets across VPS, bare metal, and Public Cloud instances."

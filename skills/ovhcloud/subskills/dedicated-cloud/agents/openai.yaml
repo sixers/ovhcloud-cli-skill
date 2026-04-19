@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Dedicated Cloud"
+  short_description: "OVHcloud CLI dedicated-cloud: Retrieve information and manage..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-dedicated-cloud to oVHcloud CLI dedicated-cloud: Retrieve information and manage your DedicatedCloud services"

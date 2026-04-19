@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Auth"
+  short_description: "OVHcloud CLI auth: `ovhcloud login`, env vars, config files,..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-auth to oVHcloud CLI auth: `ovhcloud login`, env vars, config files, and profile-aware auth resolution."

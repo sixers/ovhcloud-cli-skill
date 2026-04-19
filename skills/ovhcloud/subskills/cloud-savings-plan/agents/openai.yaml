@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud Savings Plan"
+  short_description: "OVHcloud Public Cloud `savings-plan`: Manage savings plans fo..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-savings-plan to oVHcloud Public Cloud `savings-plan`: Manage savings plans for your cloud project"

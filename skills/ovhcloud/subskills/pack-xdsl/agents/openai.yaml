@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Pack XDSL"
+  short_description: "OVHcloud CLI pack-xdsl: Retrieve information and manage your..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-pack-xdsl to oVHcloud CLI pack-xdsl: Retrieve information and manage your PackXDSL services"

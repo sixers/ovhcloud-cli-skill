@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Iploadbalancing"
+  short_description: "OVHcloud CLI iploadbalancing: Retrieve information and manage..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-iploadbalancing to oVHcloud CLI iploadbalancing: Retrieve information and manage your IP LoadBalancing services"

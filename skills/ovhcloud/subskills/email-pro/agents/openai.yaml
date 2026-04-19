@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Email Pro"
+  short_description: "OVHcloud CLI email-pro: Retrieve information and manage your..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-email-pro to oVHcloud CLI email-pro: Retrieve information and manage your EmailPro services"

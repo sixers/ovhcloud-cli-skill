@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Ovhcloudconnect"
+  short_description: "OVHcloud CLI ovhcloudconnect: Retrieve information and manage..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-ovhcloudconnect to oVHcloud CLI ovhcloudconnect: Retrieve information and manage your OVHcloud Connect services"

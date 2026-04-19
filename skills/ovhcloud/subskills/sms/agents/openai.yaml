@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Sms"
+  short_description: "OVHcloud CLI sms: Retrieve information and manage your SMS se..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-sms to oVHcloud CLI sms: Retrieve information and manage your SMS services"

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Recipe Inspect Storage"
+  short_description: "Inspect object, block, and file storage resources with read-o..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $recipe-inspect-storage to inspect object, block, and file storage resources with read-only calls."

@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud Project"
+  short_description: "OVHcloud Public Cloud `project`: Retrieve information and man..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-project to oVHcloud Public Cloud `project`: Retrieve information and manage your CloudProject services"

@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Support Tickets"
+  short_description: "OVHcloud CLI support-tickets: Retrieve information and manage..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-support-tickets to oVHcloud CLI support-tickets: Retrieve information and manage your support tickets"

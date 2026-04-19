@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud Storage"
+  short_description: "OVHcloud Public Cloud `storage`: Manage storage services in t..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-storage to oVHcloud Public Cloud `storage`: Manage storage services in the given cloud project"

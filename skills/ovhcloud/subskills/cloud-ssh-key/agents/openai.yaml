@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud SSH Key"
+  short_description: "OVHcloud Public Cloud `ssh-key`: Manage SSH keys in the given..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-ssh-key to oVHcloud Public Cloud `ssh-key`: Manage SSH keys in the given cloud project"

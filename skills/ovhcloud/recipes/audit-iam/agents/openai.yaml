@@ -1,0 +1,5 @@
+interface:
+  display_name: "Recipe Audit IAM"
+  short_description: "Review IAM objects and permissions without mutating access st..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $recipe-audit-iam to review IAM objects and permissions without mutating access state."

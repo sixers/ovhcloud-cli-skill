@@ -1,0 +1,5 @@
+interface:
+  display_name: "OVHcloud Cloud IP Failover"
+  short_description: "OVHcloud Public Cloud `ip-failover`: Manage failover IPs in t..."
+  brand_color: "#0050D7"
+  default_prompt: "Use $ovhcloud-cloud-ip-failover to oVHcloud Public Cloud `ip-failover`: Manage failover IPs in the given cloud project"
