@@ -37,6 +37,7 @@ If you use the Codex skill installer, install the bundle from this repo path:
 ```bash
 python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
   --repo sixers/ovhcloud-cli-skill \
+  --ref master \
   --path skills/ovhcloud
 ```
 
@@ -47,6 +48,11 @@ This installs the bundle into:
 ```
 
 Restart Codex after installation so it picks up the new skill.
+
+Note:
+
+- This repo uses `master`, not `main`, so `--ref master` is required in the installer example.
+- The GitHub installer downloads only `skills/ovhcloud`, not the whole repository, so the repo-root `README.md` is not copied into `~/.codex/skills/ovhcloud`.
 
 ## Install Manually
 
